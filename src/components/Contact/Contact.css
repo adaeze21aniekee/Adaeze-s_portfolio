@@ -130,9 +130,8 @@
 @media(max-width:768px){
   .contact{
     gap: 50px;
-    margin: 50px 70px;
+    margin: 50px 20px;
     align-items: start;
-    max-width: 100%;
     overflow: hidden;
   } 
 
@@ -154,7 +153,8 @@
   
   .contact_left p{
     max-width: 400px;
-    font-size: 18px;
+    font-size: 16px;
+    width: 80vw;
   }
 
   .contact_details{

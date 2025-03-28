@@ -30,8 +30,7 @@
 @media (max-width: 768px){
 
   .footer{
-    margin: 50px 70px;
-    max-width: 100%;
+    margin: 50px 20px;
     overflow: hidden;
   }
 

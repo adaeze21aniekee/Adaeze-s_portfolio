@@ -62,9 +62,8 @@
 @media (max-width: 768px){
     .myWork{
       gap: 50px;
-      margin: 50px 70px;
+      margin: 50px 20px;
       align-items: start;
-      max-width: 100%;
       overflow: hidden;
       
     }
@@ -85,9 +84,9 @@
     }
 
     .mywork_showmore{
-      padding: 20px 40px;
+      padding: 10px 30px;
       font-size: 18px;
-      margin:50px auto;
+      margin:10px auto;
     }
 
 }
