@@ -80,6 +80,8 @@
     align-items: start;
     margin: 20px 70px;
     gap: 70px;
+    max-width: 100%;
+    overflow: hidden;
   }
 
   .services_title{

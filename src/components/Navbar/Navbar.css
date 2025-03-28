@@ -59,7 +59,8 @@ ul li a:hover {
 
 @media(max-width:768px){
   .navbar{
-    width: 98%;
+    max-width: 100%;
+    overflow: hidden;
   }
 
   .nav-connect{

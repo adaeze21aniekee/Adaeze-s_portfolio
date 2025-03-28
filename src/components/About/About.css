@@ -151,7 +151,8 @@
         .about{
             margin: 50px 70px;
             gap: 60px;
-          
+            max-width: 100%;
+            overflow: hidden;
         }
 
         .About_title h1{
