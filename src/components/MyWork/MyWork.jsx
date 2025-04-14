@@ -15,7 +15,12 @@ const MyWork = () => {
       <div className="mywork_container">
         {mywork_data.map ((work,index)=>{
           return (
-            <img key={index} src= {work.img} alt="" width={200}  height={200} />)
+            
+            <a key={index} href={work.link} target="_blank" rel="noopener noreferrer"  > 
+             <img key={index} src= {work.img} alt="" width={200}  height={200}  />,  
+            </a>
+
+          )
         })}
       </div>
 
@@ -29,4 +34,3 @@ const MyWork = () => {
 };  
 
 export default MyWork;
-

@@ -66,6 +66,11 @@
    border-color: #fcfafa;
 }
 
+a{
+  color: #c52e56;
+  text-decoration: none;
+}
+
 @media(max-width:768px) {
 
   .hero{

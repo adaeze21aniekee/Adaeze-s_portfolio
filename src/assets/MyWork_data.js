@@ -1,7 +1,8 @@
-import photoa from "./photes1.jpg"
-import photob from "./photos3.jpg"
+import photoa from "./godferyphoto.png"
+import photob from "./screenphoto.png"
 import photoc from "./photo4.jpg"
 import photod from "./photos2.jpg"
+
 
 
 const mywork_data = [
@@ -9,12 +10,14 @@ const mywork_data = [
     id: 1,
     title: "Project Title",
     img: photoa,
+    link: "https://adaeze.great-site.net"
   },
 
   {
     id: 2,
     title: "Project Title 2",
     img: photob,
+    link: "https://adaeze21aniekee.github.io/Adaeze-s_portfolio/"
   },
 
   {
